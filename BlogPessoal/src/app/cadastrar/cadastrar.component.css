@@ -1,0 +1,9 @@
+#img-bg{
+  background-image:url("../../assets/img/2°\ foto\ do\ Mangá\ One\ Piece.jpg") ;
+
+  min-height: 650px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
